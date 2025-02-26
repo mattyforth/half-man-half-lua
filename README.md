@@ -1,6 +1,6 @@
 # Half Man Half Biscuit Lyric Randomiser
 
-Lyrics are fetched using the [https://halfmanhalfbiscuit.uk/](Half man Half Biscuit lyrics project),
+Lyrics are fetched using the [Half man Half Biscuit lyrics project](https://halfmanhalfbiscuit.uk/),
 specifically their randomiser script at https://halfmanhalfbiscuit.uk/rantex.php
 
 ## Why would you even bother?
