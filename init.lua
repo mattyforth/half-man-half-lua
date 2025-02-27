@@ -1,3 +1,5 @@
+#!/usr/bin/env lua
+
 local http = require("http.request")
 
 -- Perform a request to get a half man half biscuit lyric
